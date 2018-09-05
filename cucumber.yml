@@ -1,0 +1,5 @@
+##YAML Template
+---
+default: --format pretty -p chrome
+
+chrome: BROWSER=chrome
